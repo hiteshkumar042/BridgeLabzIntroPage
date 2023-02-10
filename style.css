@@ -1,0 +1,33 @@
+html{
+    background-color: #00539f;
+}
+
+body{
+    background-color: #ff9500;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 20px;
+    width: 600px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #00539F;
+    text-shadow: 2px 2px 2px black;
+    
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+li,p{
+    letter-spacing: 3px;
+    line-height: 2;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color:blueviolet
+}
